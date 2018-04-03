@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
-    int a;
+
     int b;
     int dd;
     int ff;
@@ -15,6 +15,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        Toast.makeText(this,"HelloWorld",Toast.LENGTH_SHORT).show();
+        Toast.makeText(this,"哈哈哈",Toast.LENGTH_SHORT).show();
     }
 }
