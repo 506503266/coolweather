@@ -6,4 +6,5 @@ public class Aa {
     int a;
     int b;
     int c;
+    int d;
 }
