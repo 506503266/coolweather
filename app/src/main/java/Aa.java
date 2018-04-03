@@ -4,4 +4,5 @@
 
 public class Aa {
     int a;
+    int b;
 }
