@@ -7,6 +7,7 @@ import android.widget.Toast;
 public class MainActivity extends AppCompatActivity {
     int a;
     int b;
+    int dd;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
